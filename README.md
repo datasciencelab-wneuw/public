@@ -7,6 +7,7 @@ In this repository one can find examples of our projects.
 * "Features of districts of Warsaw visible from space" -- [presentation from WhyR? 2019](WhyR2019_satellite.pdf)
 * "Shiny application for algorithmic trading" by Tomasz Koc and Piotr Wójcik -- [presentation](WhyR2019_algo_trading.pdf), [link to application](https://pwojcik.shinyapps.io/algotrade)
 * "Predicting well-being based on features visible from space - the case of Warsaw" by Piotr Wójcik and Krystian Andruszek -- [presentation from the joint seminar of QFRG and DSLab on 19th Nov 2019](DSLab_sem2019_pres.pdf), [poster presented on MLinPL 2029 conference](MLinPL2019_poster.pdf)
+* "We just explained convergence factors with machine learning tools" by Piotr Wójcik and Bartłomiej Wieczorek -- [presentation from the joint seminar of QFRG and DSLab on 21st Jan 2020](DSLab_sem_We_just_explained.pdf)
 
 
 
